@@ -1,3 +1,3 @@
-# GiiHub Basics
+# GitHub Basics
 
 
